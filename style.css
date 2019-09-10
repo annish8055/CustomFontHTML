@@ -1,0 +1,17 @@
+@font-face{
+  font-family: A Box For2;
+  src:url("test/ABoxFor2.ttf")
+}
+
+@font-face{
+	font-family: A Box For;
+	src:url("test/ABoxFor.ttf")	
+}
+
+#main{
+	font-family:A Box For2;
+}
+
+#ma{
+	font-family:A Box For;
+}
